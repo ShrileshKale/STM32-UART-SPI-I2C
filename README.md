@@ -1,4 +1,4 @@
-# STM32-UART-SPI-I2C-
+# STM32-UART-SPI-I2C communication with Arduino board using HAL APIs
 
 This repository gives an idea about how to use UART/SPI/I2C communication using HAL APIs
 
